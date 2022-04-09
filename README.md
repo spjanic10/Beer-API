@@ -1,6 +1,8 @@
 # Beer-API
 
-API application made with the Django REST Framework. The API returns a list of beer attributes based on the inputted type of beer.
+API application made with the Django REST Framework. 
+
+The API returns a list of beer attributes based on the inputted type of beer.
 
 The application is live at: https://spjanic10.pythonanywhere.com/beer/<beer_type>
 
