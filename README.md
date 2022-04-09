@@ -17,7 +17,7 @@ The list of valid beer types are:
 - lambic
 - hefeweizen
 
-Within the API the Beer model contains 5 attributes:
+Within the API, the Beer model contains 5 attributes:
 
 - id
 - type
